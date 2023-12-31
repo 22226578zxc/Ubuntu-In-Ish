@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 
 clear
 printf "This Project is distributed under the Lisence GPLv3 by MFDGaming\n"
